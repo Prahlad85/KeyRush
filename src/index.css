@@ -75,7 +75,7 @@ header {
 .logo h1 {
   font-size: 2rem;
   font-weight: 700;
-  background: linear-gradient(to right, #8b5cf6, #d946ef);
+  background: linear-gradient(to right, #fff, #ffffff);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
   margin-bottom: 0.2rem;
@@ -167,7 +167,7 @@ header {
 .live-wpm {
   font-size: 1.5rem;
   font-weight: 700;
-  color: var(--accent);
+  color: #fff;
 }
 
 .instruction {
